@@ -31,4 +31,4 @@ To send a request to the server, you can use any tool which supports making HTTP
 I use the requests python library to send requests with json format, you can find the example code in 'ortclient.py'
 
 # ARCHITECTURE(simplified)
-[architecture](architecture.png)
+![architecture](architecture.png)
