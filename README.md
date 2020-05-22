@@ -32,3 +32,7 @@ I use the requests python library to send requests with json format, you can fin
 
 # ARCHITECTURE(simplified)
 ![architecture](architecture.png)
+
+# Example:
+you can find an example provided in the client.py file and the processing.py to pre(post)process the image,
+(the example is about counting people in an image -> output a density map)
